@@ -1,0 +1,32 @@
+/* Button.html */
+
+body,html {
+    display:block;
+    background-color: limegreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+button {
+    text-align: center;
+    display:block;
+    color: blue;
+    padding-bottom: 18px;
+    background-color: grey;
+    width: 250px;
+    border-radius: 15px;
+}
+a:hover{
+    background-color: blue;
+}
+
+.red {
+    border-left: ridge 8px red;
+}
+.yellow {
+    border-left: ridge 8px yellow;
+}
+.blue {
+    border-left:ridge 8px blue;
+}
+.green {border-left:ridge 8px blue;}
