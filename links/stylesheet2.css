@@ -27,6 +27,8 @@ a:hover{
     border-left: ridge 8px yellow;
 }
 .blue {
-    border-left:ridge 8px blue;
+    border-left: ridge 8px blue;
 }
-.green {border-left:ridge 8px blue;}
+.green {
+    border-left:ridge 8px green;
+}
