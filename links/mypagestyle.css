@@ -1,4 +1,11 @@
 html,body {
     background-color: blue;
-    
+}
+
+.links {
+    padding: 30px;
+}
+
+.sublinks {
+    padding: 0;
 }
